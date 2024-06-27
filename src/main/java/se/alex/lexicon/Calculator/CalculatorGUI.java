@@ -1,4 +1,4 @@
-package fullstackOS.org.Calculator;
+package se.alex.lexicon.Calculator;
 
 import javax.swing.*;
 import java.awt.*;
